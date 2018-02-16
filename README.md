@@ -2,7 +2,7 @@
 
 chrome app to open ttyd in separate window
 
-![screenshot][//github.com/if1live/ttyd-window/document/multi-instance.png]
+![screenshot](https://raw.githubusercontent.com/if1live/ttyd-window/master/document/multi-instance.png)
 
 ## features
 
