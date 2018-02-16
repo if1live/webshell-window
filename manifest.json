@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "minimum_chrome_version": "50",
   "icons": {
-    "16": "icon_16.png",
-    "128": "icon_128.png"
+    "16": "terminal-16.png",
+    "128": "terminal-128.png"
   },
   "permissions": ["background"],
   "app": {
