@@ -7,10 +7,13 @@ chrome app to open web shell in separate window
 ## features
 
 * open web shell in separate window
+    * open 'http://127.0.0.1:7681' in seperate window
+    * port 7681 is default port of [ttyd][repo-ttyd]
 * open multiple web shell window
 
 ## install
 
+0. install [ttyd][repo-ttyd]
 1. git clone
 2. open the browser chrome and keyin the value "chrome://extensions/" into URL bar.
 3. click the checkbox of developer mode to enable developer mode.
@@ -26,3 +29,7 @@ Icons made by <a href="https://www.flaticon.com/authors/kirill-kazachek" title="
 from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a>
 </div>
+
+[repo-ttyd]: https://github.com/tsl0922/ttyd
+
+
